@@ -1,3 +1,4 @@
+#include <unistd.h>
 #include "main.h"
 
 /**
@@ -10,8 +11,8 @@
 
 int main(void)
 {
-	char text[] = "main";
-	int i = 0;
+        char text[] = "_putchar";
+	int i;
 
 	for (i = 0; i < 8; i++)
 	{

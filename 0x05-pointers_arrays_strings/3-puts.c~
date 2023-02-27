@@ -1,0 +1,13 @@
+#include "main.h"
+/**
+ *_puts - allows output to be printed on the screen
+ *Return: always 0
+ */
+
+int main (void)
+{
+string words[1];
+word "alx";
+_puts("%s\n", word)
+return (0)
+}

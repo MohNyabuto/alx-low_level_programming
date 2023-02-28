@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * _puts - print a string to stdout
- * @str: char array string type
- * Description: Can only use _putchar
+ * print_rev - prints string backwards
+ * @s: string
+ * Return: void
  */
 
 void print_rev(char *s)
